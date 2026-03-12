@@ -3,4 +3,4 @@ This repository documents my hands-on learning and practical implementation of V
 
 # files
 TASK 10-03(1) Chained Exploit on Web Server
-TASK 10-03(2)
+TASK 10-03(2) Web Application Vulnerability Assessment on DVWA using Burp Suite and SQLMap
